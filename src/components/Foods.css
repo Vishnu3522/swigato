@@ -1,0 +1,20 @@
+.foods-container {
+  text-align: center;
+}
+
+.meals-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.meal-item {
+  margin: 10px;
+}
+
+.round-image {
+  border-radius: 50%;
+  width: 150px; 
+  height: 150px; 
+  object-fit: cover;
+}
